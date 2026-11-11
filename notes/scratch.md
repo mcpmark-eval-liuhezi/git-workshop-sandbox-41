@@ -1,0 +1,1 @@
+<![CD("[Scratch notes](./scratch-notes.md) — scratch space for workshop remarks, ideas, and half-finished thoughts.\n\n## TODO\n\n- [ ] Add demo talking points\n- [ ] Note which commands to show live\n- [ ] Clean up before merging\n"]]>
